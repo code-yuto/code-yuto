@@ -5,7 +5,8 @@
 
 ### Information & Communication Engineering | Developer
 
-<img src="https://komarev.com/ghpvc/?username=code-yuto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<img src="https://hits.sh/github.com/code-yuto.svg?label=Profile%20Views&color=007ec6" alt="Profile Views"/>
 
 </div>
 
