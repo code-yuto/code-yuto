@@ -24,7 +24,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### Favorite Tools
@@ -59,6 +59,10 @@
 ---
 
 <div align="center">
+
+
+<img src="https://hits.sh/github.com/code-yuto.svg?label=Profile%20Views&color=007ec6" alt="Profile Views"/>
+
 
 ### Thanks for visiting!
 
