@@ -5,7 +5,6 @@
 ### Information & Communication Engineering | Developer
 
 
-<img src="https://hits.sh/github.com/code-yuto.svg?label=Profile%20Views&color=007ec6" alt="Profile Views"/>
 
 </div>
 
