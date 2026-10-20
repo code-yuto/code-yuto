@@ -28,10 +28,12 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,go&theme=dark" />
 </p>
 
-### Frameworks & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,blender,fastapi&theme=dark" />
+## Favorite Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,github,blender,unity&theme=dark" />
+  <img src="https://cdn.simpleicons.org/wezterm" width="48" height="48" alt="WezTerm" />
 </p>
 
 ---
