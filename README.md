@@ -25,7 +25,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs&theme=dark" />
 </p>
 
 
