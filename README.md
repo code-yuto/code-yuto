@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hi,%20I'm%20Yuto!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -67,4 +66,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
 
 </div>
-```
