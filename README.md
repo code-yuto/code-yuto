@@ -1,71 +1,101 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hi,%20I'm%20Yuto!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-### Information & Communication Engineering | Developer
-
-
-
-</div>
-
----
-
-## About Me
-
-- 🎓 Studying Information and Communication Engineering at Shibaura Institute of Technology
-- 🌐 Interested in Network Architecture, 6G, Edge Computing and IoT
-- 💻 Interested in Software Development and Competitive Programming
-- 🎨 Exploring Interactive Art and 3D Graphics
-
----
-
-## Tech Stack
-
-### Languages
+<table width="100%">
+<tr>
+<td>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs&theme=dark" alt="Programming Languages"/>
+  <samp>● ● ● &nbsp;&nbsp; code-yuto — wezterm</samp>
 </p>
 
-### Favorite Tools
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=1000&color=9ECE6A&vCenter=true&repeat=false&width=760&height=35&lines=code-yuto%40github%3A~%24+whoami" alt="code-yuto@github:~$ whoami"/>
+
+<pre>
+Hi, I'm Yuto!
+
+Information &amp; Communication Engineering | Developer
+</pre>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=1000&color=9ECE6A&vCenter=true&repeat=false&width=760&height=35&lines=code-yuto%40github%3A~%24+cat+about.txt" alt="code-yuto@github:~$ cat about.txt"/>
+
+<p><samp><b>About Me</b></samp></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=neovim,github,blender,unity&theme=dark" alt="Favorite Tools"/>
-  <img src="https://cdn.simpleicons.org/wezterm" width="48" height="48" alt="WezTerm"/>
+  <samp>
+    Studying Information and Communication Engineering<br>
+    at Shibaura Institute of Technology
+  </samp>
 </p>
 
----
+<p>
+  <samp>
+    Interested in Network Architecture, 6G, Edge Computing and IoT
+  </samp>
+</p>
 
-## GitHub Analytics
+<p>
+  <samp>
+    Interested in Software Development and Competitive Programming
+  </samp>
+</p>
 
-<div align="center">
+<p>
+  <samp>
+    Exploring Interactive Art and 3D Graphics
+  </samp>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-yuto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+<br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yuto&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=9ECE6A&vCenter=true&repeat=false&width=760&height=35&lines=code-yuto%40github%3A~%24+cat+stack.conf" alt="code-yuto@github:~$ cat stack.conf"/>
 
-</div>
+<pre>
+# Tech Stack
 
----
+[Languages]
+C++  /  C  /  Python  /  C#
 
-## Contribution Activity
+[Favorite Tools]
+Neovim  /  GitHub  /  Blender  /  Unity  /  WezTerm
+</pre>
 
-<div align="center">
+<br>
 
-[![GitHub Contributions](https://ghchart.rshah.org/58A6FF/code-yuto)](https://github.com/code-yuto)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=9ECE6A&vCenter=true&repeat=false&width=760&height=35&lines=code-yuto%40github%3A~%24+.%2Fgithub-analytics" alt="code-yuto@github:~$ ./github-analytics"/>
 
-</div>
+<p><samp><b>GitHub Analytics</b></samp></p>
 
----
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=code-yuto&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&icon_color=9ECE6A&ring_color=7AA2F7&hide_border=true" alt="GitHub Stats"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yuto&layout=donut&langs_count=8&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&hide_border=true" alt="Top Languages"/>
+</p>
 
-<div align="center">
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3600&pause=1000&color=9ECE6A&vCenter=true&repeat=false&width=760&height=35&lines=code-yuto%40github%3A~%24+.%2Fcontribution-activity" alt="code-yuto@github:~$ ./contribution-activity"/>
 
-<img src="https://hits.sh/github.com/code-yuto.svg?label=Profile%20Views&color=007ec6" alt="Profile Views"/>
+<p><samp><b>Contribution Activity</b></samp></p>
 
+<p align="center">
+  <a href="https://github.com/code-yuto">
+    <img width="96%" src="https://ghchart.rshah.org/9ECE6A/code-yuto" alt="GitHub Contributions"/>
+  </a>
+</p>
 
-### Thanks for visiting!
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+<p>
+  <img src="https://hits.sh/github.com/code-yuto.svg?label=Profile%20Views&color=414868&labelColor=161B22" alt="Profile Views"/>
+</p>
 
-</div>
+<br>
+
+<p><samp>Thanks for visiting!</samp></p>
+
+<p><samp><b>code-yuto@github:~$</b> ▍</samp></p>
+
+</td>
+</tr>
+</table>
